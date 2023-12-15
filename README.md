@@ -55,6 +55,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
 
+🌱 **Currently Learning:**
+- Enhancing my skills in [insert skill/technology]
 
 <br/><br/>
 ## TO-DO
@@ -92,7 +94,7 @@
 
 
 
-Let's connect and collaborate on exciting projects! 😊
+
 
 <h2 align="left">Hi there, I'm noscreator! 👋....</h2>
 
