@@ -1,21 +1,19 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">noscreator</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    <br>「 I'm passionate about **web development**, **operating systems**, and creating content on **YouTube** and **blogging**. 」
     <br>
     <br>
   </samp>
 </p>
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 <p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -38,9 +36,14 @@
 </p>
 <br />
 
+🚀 **Skills and Expertise:**
+- Web Development (HTML, CSS, JavaScript, etc.)
+- Operating Systems Development
+- YouTube Content Creation
+- Blogging
 
-✨ 216 people were here!
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noscreator&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
@@ -51,13 +54,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-
-:-------------------------:|:-------------------------:       
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)<br/>
-
 
 
 <br/><br/>
@@ -83,28 +79,18 @@
 * [ ] Add Profile banner widget
 * [ ] Add Stats widget
 
-### Join Discord
-
-![Dark theme preview](http://invidget.switchblade.xyz/832187937675804683)
-
-# Hi there, I'm noscreator! 👋
-
-I'm passionate about **web development**, **operating systems**, and creating content on **YouTube** and **blogging**.
-
-🚀 **Skills and Expertise:**
-- Web Development (HTML, CSS, JavaScript, etc.)
-- Operating Systems Development
-- YouTube Content Creation
-- Blogging
-
-🌱 **Currently Learning:**
-- Enhancing my skills in [insert skill/technology]
-
 📫 **Reach me at:**
 - [Your Website/Blog](yourwebsite.com)
 - [YouTube Channel](youtube.com/noscreator)
 - [LinkedIn](linkedin.com/in/noscreator)
 - [Twitter](twitter.com/noscreator)
+
+### Join Discord
+
+![Dark theme preview](http://invidget.switchblade.xyz/832187937675804683)
+
+
+
 
 Let's connect and collaborate on exciting projects! 😊
 
