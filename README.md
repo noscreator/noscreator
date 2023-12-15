@@ -38,6 +38,55 @@
 </p>
 <br />
 
+
+✨ 216 people were here!
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+:-------------------------:|:-------------------------:       
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)<br/>
+
+
+
+<br/><br/>
+## TO-DO
+
+* [x] Fix skills text being off-center
+* [x] Add themes (dark mode)
+* [x] Add Skills: Tools & Frameworks widget
+* [x] Add Skills: Software & IDEs widget
+* [ ] Make autobuilder instead of manual build and push
+* [ ] Count organization repositories (+ their stars)
+* [ ] Truncate name if too long on profile widget
+* [ ] Make all widgets a modular size
+* [ ] Add Profile Tag widget
+* [ ] Add Skill Tag widget
+* [ ] Add Commit Streak widget
+* [ ] Add Twitter widget
+* [ ] Add LinkedIn widget
+* [ ] Add Instagram widget
+* [ ] Add YouTube widget
+* [ ] Add Portfolio website widget
+* [ ] Add Project link widget
+* [ ] Add Profile banner widget
+* [ ] Add Stats widget
+
+### Join Discord
+
+![Dark theme preview](http://invidget.switchblade.xyz/832187937675804683)
+
 # Hi there, I'm noscreator! 👋
 
 I'm passionate about **web development**, **operating systems**, and creating content on **YouTube** and **blogging**.
