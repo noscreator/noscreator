@@ -1,3 +1,41 @@
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://nexoscreator.pro">noscreator</a></b>
+        </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.nexoscreation.com">「 Website 」</a>
+    <br>「 I'm passionate about **web development**, **operating systems**, and creating content on **YouTube** and **blogging**. 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://www.nexoscreation.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="web" />
+ </a>
+ <a href="https://dev.to/noscreator" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev" />
+ </a>
+ <a href="https://twitter.com/noscreator" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/noscreator" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="insta" />
+ </a> 
+ <a href="https://facebook.com/noscreator" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="fb"  />
+  </a> 
+</p>
+<br />
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noscreator&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+<br/>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noscreator&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <br/>
