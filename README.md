@@ -4,7 +4,7 @@
 </samp>
 </h3>
 <p>
-<samp>「 I'm passionate about web development, operating systems, and creating content on YouTube and also blogging. 」</samp>
+<samp>「 I'm passionate about os devlopment, web development, game development, and creating content on YouTube and also blogging. 」</samp>
 </p>
 </div>
 
