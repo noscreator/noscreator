@@ -27,6 +27,4 @@
 #
 
 Let's connect and collaborate on exciting projects! 😊
-#
-![Animation](https://raw.githubusercontent.com/noscreator/noscreator/output/snake.svg)
 ###
